@@ -6,12 +6,14 @@
 </template>
 
 <script>
+import MButton from "@mozaic-ds/vue-3/src/components/button/MButton.vue";
 import HelloWorld from "./components/HelloWorld.vue";
 
 export default {
   name: "App",
   components: {
     HelloWorld,
+    MButton,
   },
 };
 </script>
