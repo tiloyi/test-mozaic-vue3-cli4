@@ -1,5 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
+  <br />
+  <MButton label="Ceci est un bouton Mozaic!" />
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
 
